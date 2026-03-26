@@ -6,16 +6,20 @@ Network Topology:
 <img width="1084" height="560" alt="image" src="https://github.com/user-attachments/assets/3dd0bcf6-fa8c-47dd-a980-43f35b4cdb86" />
 
 
+
 OSPF with authentication:
 <img width="1083" height="559" alt="image" src="https://github.com/user-attachments/assets/ca739b44-5ac9-4b7a-a434-acb89ea8447e" />
+
 
 
 DHCP:
 <img width="1083" height="558" alt="image" src="https://github.com/user-attachments/assets/ac86af91-542e-4ae4-9a91-6672b72948da" />
 
 
+
 NAT / PAT:
 <img width="1083" height="558" alt="image" src="https://github.com/user-attachments/assets/644c6fdd-5e69-4351-91bb-e49ced4a216e" />
+
 
 
 Site-to-site VPN:
