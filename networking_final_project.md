@@ -1,23 +1,28 @@
-Project of a Corporate Network Infrastructurein Cisco Packet Tracer
+Project of a Corporate Network Infrastructure in Cisco Packet Tracer
 
 Network Topology:
 - 2 locations: Corporate + Branch
 - 6 Local Area Networks (LAN) + 4 Virtual LANs (VLAN)
-<img width="1350" height="698" alt="image" src="https://github.com/user-attachments/assets/d80f9094-7132-4dd1-8049-9a834831b9b1" />
+<img width="1084" height="560" alt="image" src="https://github.com/user-attachments/assets/3dd0bcf6-fa8c-47dd-a980-43f35b4cdb86" />
+
 
 OSPF with authentication:
-<img width="1350" height="698" alt="image" src="https://github.com/user-attachments/assets/000982e3-a2e9-46e2-a1a8-46c3e123bbf9" />
+<img width="1083" height="559" alt="image" src="https://github.com/user-attachments/assets/ca739b44-5ac9-4b7a-a434-acb89ea8447e" />
+
 
 DHCP:
-<img width="1350" height="698" alt="image" src="https://github.com/user-attachments/assets/26797ea2-09d0-415f-84dc-0b37e71aedb3" />
+<img width="1083" height="558" alt="image" src="https://github.com/user-attachments/assets/ac86af91-542e-4ae4-9a91-6672b72948da" />
+
 
 NAT / PAT:
-<img width="1350" height="698" alt="image" src="https://github.com/user-attachments/assets/363d47ff-69d6-44d1-9f78-849869855a0f" />
+<img width="1083" height="558" alt="image" src="https://github.com/user-attachments/assets/644c6fdd-5e69-4351-91bb-e49ced4a216e" />
+
 
 Site-to-site VPN:
-<img width="1350" height="698" alt="image" src="https://github.com/user-attachments/assets/9288b710-2048-4286-a75a-dc8cd89bc808" />
+<img width="1081" height="559" alt="image" src="https://github.com/user-attachments/assets/1bba96b8-f24a-4715-b782-93f8b6f2e0f4" />
 
-Services:
+
+Services and protocols:
 - AD with LDAP
 - Kerberos authentication
 - SMTP
