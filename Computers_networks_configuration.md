@@ -26,7 +26,7 @@ Services and protocols:
 - AD with LDAP
 - Kerberos authentication
 - SMTP
-- SYSLOG
+- SYSLOG + NTP
 - HTTPS
 - SMB 
 - proprietary application for internal communication running on port range 31000–31002 on servers MODEL-1 and MODEL-2
